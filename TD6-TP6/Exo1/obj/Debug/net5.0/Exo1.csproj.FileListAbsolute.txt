@@ -1,0 +1,16 @@
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\bin\Debug\net5.0\Exo1.exe
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\bin\Debug\net5.0\Exo1.deps.json
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\bin\Debug\net5.0\Exo1.runtimeconfig.json
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\bin\Debug\net5.0\Exo1.runtimeconfig.dev.json
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\bin\Debug\net5.0\Exo1.dll
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\bin\Debug\net5.0\Exo1.pdb
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\obj\Debug\net5.0\Exo1.csproj.AssemblyReference.cache
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\obj\Debug\net5.0\Exo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\obj\Debug\net5.0\Exo1.AssemblyInfoInputs.cache
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\obj\Debug\net5.0\Exo1.AssemblyInfo.cs
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\obj\Debug\net5.0\Exo1.csproj.CoreCompileInputs.cache
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\obj\Debug\net5.0\Exo1.dll
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\obj\Debug\net5.0\refint\Exo1.dll
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\obj\Debug\net5.0\Exo1.pdb
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\obj\Debug\net5.0\Exo1.genruntimeconfig.cache
+C:\Users\gallottm\source\repos\TD6-TP6\Exo1\obj\Debug\net5.0\ref\Exo1.dll
